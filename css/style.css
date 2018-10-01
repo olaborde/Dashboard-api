@@ -1,0 +1,40 @@
+
+
+
+.dashboard {
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 80px;
+}
+
+
+li {
+    display: inline;
+    margin: 0 0 3px 0;
+}
+
+
+
+.flip {
+    height: 199px;
+    width: 300px;
+    margin: 0 auto;
+}
+.flip img {
+    width: 300px;
+    height: auto;
+}
+.flip .back {
+    background: #2184cd;
+    color: #fff;
+    text-align: center;
+}
